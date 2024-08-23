@@ -1,0 +1,633 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\repositories\\implementations\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:repositories\\implementations\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\services\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:services\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\services\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:services\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\repositories\\implementations\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:repositories\\implementations\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\services\\authenticationservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:services\\authenticationservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\services\\implementations\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:services\\implementations\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\services\\implementations\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:services\\implementations\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC55DFE-861B-4F4F-8076-A21D211A9D8F}|..\\UnitTests\\UnitTests.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\dtos\\authrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:dtos\\authrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\dtos\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:dtos\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\dtos\\reservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:dtos\\reservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\repositories\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:repositories\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\repositories\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:repositories\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\dtos\\roomrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:dtos\\roomrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\dtos\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:dtos\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\migrations\\20240523223737_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:migrations\\20240523223737_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|c:\\users\\arbre\\onedrive\\desktop\\seeu it\\semestri8\\soa\\soaproject\\migrations\\20240525020602_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBB5A6E-2417-46AB-AD84-F733266000A2}|SOAproject.csproj|solutionrelative:migrations\\20240525020602_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 443,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Repositories\\Implementations\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Repositories\\Implementations\\RoomRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\RoomRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:11:23.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Repositories\\Implementations\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Repositories\\Implementations\\ReservationRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ReservationRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:31:12.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:30:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Models\\Reservation.cs",
+              "RelativeToolTip": "Models\\Reservation.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:30:18.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:57:30.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:57:52.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Controllers\\RoomsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:28:13.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Services\\Interfaces\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Services\\Interfaces\\IRoomService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:34:06.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Services\\Interfaces\\IReservationService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Services\\Interfaces\\IReservationService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IReservationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:39:52.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T02:20:13.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Services\\AuthenticationService\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthenticationService\\TokenService.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Services\\AuthenticationService\\TokenService.cs",
+              "RelativeToolTip": "Services\\AuthenticationService\\TokenService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:09:58.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Services\\Implementations\\ReservationService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Services\\Implementations\\ReservationService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ReservationService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAiwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:23:51.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Services\\Implementations\\RoomService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\RoomService.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Services\\Implementations\\RoomService.cs",
+              "RelativeToolTip": "Services\\Implementations\\RoomService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwEoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:20:53.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:48:48.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAmwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:26:43.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:39:49.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:58:17.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\AuthRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthRequestDTO.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\AuthRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\AuthRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:59:38.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthResponseDTO.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\AuthResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\AuthResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:29:19.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegistrationRequestDto.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "DTOs\\RegistrationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:47:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ReservationDto.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\ReservationDto.cs",
+              "RelativeToolTip": "DTOs\\ReservationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:05:50.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReservationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\ReservationRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ReservationRequestDto.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\ReservationRequestDto.cs",
+              "RelativeToolTip": "DTOs\\ReservationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:47:49.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T03:05:59.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\RoomRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RoomRequestDto.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\RoomRequestDto.cs",
+              "RelativeToolTip": "DTOs\\RoomRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:17:24.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\UserRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserRequestDto.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\UserRequestDto.cs",
+              "RelativeToolTip": "DTOs\\UserRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:49:52.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:27:00.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:49:22.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Repositories\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Repositories\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:10:35.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Repositories\\Interfaces\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Repositories\\Interfaces\\IReservationRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IReservationRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:30:24.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\RoomDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RoomDto.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\DTOs\\RoomDto.cs",
+              "RelativeToolTip": "DTOs\\RoomDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:05:21.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T21:43:23.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:08:15.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240525020602_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Migrations\\20240525020602_SecondMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240525020602_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Migrations\\20240525020602_SecondMigration.cs",
+              "RelativeToolTip": "Migrations\\20240525020602_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T02:06:02.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240523223737_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Migrations\\20240523223737_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240523223737_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\arbre\\OneDrive\\Desktop\\SEEU IT\\Semestri8\\SOA\\SOAproject\\Migrations\\20240523223737_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240523223737_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:37:37.497Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 222,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

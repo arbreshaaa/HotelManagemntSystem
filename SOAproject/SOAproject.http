@@ -1,0 +1,6 @@
+@SOAproject_HostAddress = http://localhost:5244
+
+GET {{SOAproject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
